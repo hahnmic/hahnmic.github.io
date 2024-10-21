@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-draft: false
 ---
 
 ## 2024

@@ -42,5 +42,5 @@ theme = 'barks'
 [menu]
     [[menu.main]]
         name = "Publications"
-        url = "/posts"
+        url = "/publications"
         weight = 1
