@@ -1,0 +1,56 @@
+baseURL = '/'
+copyright = "Made by Michael Hahn with <a href='https://github.com/timothygebhard/barks'>barks</a>."
+languageCode = 'en-us'
+title = 'Michael Hahn'
+theme = 'barks'
+
+[params]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:gabriela.iwama@student.uni-tuebingen.de"
+        weight = 1
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/gabrielaiwama"
+        weight = 2
+    [params.social.google_scholar]
+        name = "Google Scholar"
+        class = "ai ai-google-scholar-square"
+        url = "https://scholar.google.com/citations?user=n6yTMLYAAAAJ"
+        weight = 3
+    [params.social.researchgate]
+        name = "ResearchGate"
+        class = "fab fa-researchgate"
+        url = "https://www.researchgate.net/profile/Gabriela-Iwama"
+        weight = 4
+    [params.social.twitter]
+        name = "Twitter"
+        class = "fab fa-twitter-square"
+        url = "https://twitter.com/GabrielaIwama"
+        weight = 5
+    [params.social.orcid]
+        name = "ORCID"
+        class = "fab fa-orcid"
+        url = "https://orcid.org/0000-0002-4043-1230"
+        weight = 6
+    [params.social.linkedin]
+        name = "Linkedin"
+        class = "fab fa-linkedin"
+        url = "https://www.linkedin.com/in/gabrielaiwama/"
+        weight = 7
+
+
+    [params.colors]
+        background_color = "Snow"
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+
+[menu]
+    [[menu.main]]
+        name = "blog"
+        url = "/posts"
+        weight = 1
