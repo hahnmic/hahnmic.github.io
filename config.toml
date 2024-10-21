@@ -13,33 +13,23 @@ theme = 'barks'
     [params.social.github]
         name = "GitHub"
         class = "fab fa-github"
-        url = "https://github.com/gabrielaiwama"
+        url = "https://github.com/hahnmic"
         weight = 2
     [params.social.google_scholar]
         name = "Google Scholar"
         class = "ai ai-google-scholar-square"
-        url = "https://scholar.google.com/citations?user=n6yTMLYAAAAJ"
+        url = "https://scholar.google.com/citations?user=hTli1h0AAAAJ&hl"
         weight = 3
     [params.social.researchgate]
         name = "ResearchGate"
         class = "fab fa-researchgate"
-        url = "https://www.researchgate.net/profile/Gabriela-Iwama"
+        url = "https://www.researchgate.net/profile/Michael-Hahn-26"
         weight = 4
     [params.social.twitter]
         name = "Twitter"
         class = "fab fa-twitter-square"
-        url = "https://twitter.com/GabrielaIwama"
+        url = "https://twitter.com/HahnMic"
         weight = 5
-    [params.social.orcid]
-        name = "ORCID"
-        class = "fab fa-orcid"
-        url = "https://orcid.org/0000-0002-4043-1230"
-        weight = 6
-    [params.social.linkedin]
-        name = "Linkedin"
-        class = "fab fa-linkedin"
-        url = "https://www.linkedin.com/in/gabrielaiwama/"
-        weight = 7
 
 
     [params.colors]
@@ -51,6 +41,6 @@ theme = 'barks'
 
 [menu]
     [[menu.main]]
-        name = "blog"
+        name = "Publications"
         url = "/posts"
         weight = 1
