@@ -17,7 +17,7 @@ theme = 'barks'
         weight = 2
     [params.social.google_scholar]
         name = "Google Scholar"
-        class = "fas google-scholar"
+        class = "fas google"
         url = "https://scholar.google.com/citations?user=hTli1h0AAAAJ&hl"
         weight = 3
     [params.social.researchgate]
@@ -33,7 +33,7 @@ theme = 'barks'
 
 
     [params.colors]
-        background_color = "#f0e8e1"
+        background_color = "#f5f1f0"
 
 [markup.goldmark.renderer]
     unsafe= true
