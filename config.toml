@@ -33,7 +33,7 @@ theme = 'barks'
 
 
     [params.colors]
-        background_color = "Snow"
+        background_color = "#f0e8e1"
 
 [markup.goldmark.renderer]
     unsafe= true
