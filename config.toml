@@ -17,7 +17,7 @@ theme = 'barks'
         weight = 2
     [params.social.google_scholar]
         name = "Google Scholar"
-        class = "fas google"
+        class = "fas fa-google"
         url = "https://scholar.google.com/citations?user=hTli1h0AAAAJ&hl"
         weight = 3
     [params.social.researchgate]
